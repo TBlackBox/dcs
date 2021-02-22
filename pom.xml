@@ -13,6 +13,7 @@
         <module>dcs-provider-payment</module>
         <module>dcs-consumer-order</module>
         <module>dcs-api-commons</module>
+        <module>dcs-gateway</module>
     </modules>
 
     <properties>
