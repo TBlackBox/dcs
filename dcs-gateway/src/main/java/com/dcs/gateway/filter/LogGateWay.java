@@ -11,6 +11,9 @@ import reactor.core.publisher.Mono;
 
 import java.time.ZonedDateTime;
 
+/**
+ * 全局过滤器
+ */
 @Component
 public class LogGateWay implements GlobalFilter, Ordered {
     @Override

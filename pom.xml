@@ -14,6 +14,8 @@
         <module>dcs-consumer-order</module>
         <module>dcs-api-commons</module>
         <module>dcs-gateway</module>
+        <module>dcs-api-commons</module>
+        <module>dcs-alibaba-sentinel</module>
     </modules>
 
     <properties>
